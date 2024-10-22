@@ -1,0 +1,56 @@
+[
+	{
+		"arguments": [
+			"clang",
+			"D:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\drivers\\simplehmd\\src\\device_provider.cpp",
+			"-o",
+			"C:\\Users\\ousttrue\\AppData\\Local\\zig\\device_provider.cpp.o",
+			"-std=c++14",
+			"-fPIC",
+			"-fvisibility=hidden",
+			"-ID:\\ghq\\github.com\\ousttrue\\openvr\\headers",
+			"-ID:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\utils\\driverlog",
+			"-ID:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\utils\\vrmath",
+			"-ID:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\drivers\\simplehmd\\src"
+		],
+		"directory": "D:\\ghq\\github.com\\ousttrue\\openvr",
+		"file": "D:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\drivers\\simplehmd\\src\\device_provider.cpp",
+		"output": "C:\\Users\\ousttrue\\AppData\\Local\\zig\\device_provider.cpp.o"
+	},
+	{
+		"arguments": [
+			"clang",
+			"D:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\drivers\\simplehmd\\src\\hmd_driver_factory.cpp",
+			"-o",
+			"C:\\Users\\ousttrue\\AppData\\Local\\zig\\hmd_driver_factory.cpp.o",
+			"-std=c++14",
+			"-fPIC",
+			"-fvisibility=hidden",
+			"-ID:\\ghq\\github.com\\ousttrue\\openvr\\headers",
+			"-ID:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\utils\\driverlog",
+			"-ID:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\utils\\vrmath",
+			"-ID:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\drivers\\simplehmd\\src"
+		],
+		"directory": "D:\\ghq\\github.com\\ousttrue\\openvr",
+		"file": "D:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\drivers\\simplehmd\\src\\hmd_driver_factory.cpp",
+		"output": "C:\\Users\\ousttrue\\AppData\\Local\\zig\\hmd_driver_factory.cpp.o"
+	},
+	{
+		"arguments": [
+			"clang",
+			"D:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\drivers\\simplehmd\\src\\hmd_device_driver.cpp",
+			"-o",
+			"C:\\Users\\ousttrue\\AppData\\Local\\zig\\hmd_device_driver.cpp.o",
+			"-std=c++14",
+			"-fPIC",
+			"-fvisibility=hidden",
+			"-ID:\\ghq\\github.com\\ousttrue\\openvr\\headers",
+			"-ID:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\utils\\driverlog",
+			"-ID:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\utils\\vrmath",
+			"-ID:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\drivers\\simplehmd\\src"
+		],
+		"directory": "D:\\ghq\\github.com\\ousttrue\\openvr",
+		"file": "D:\\ghq\\github.com\\ousttrue\\openvr\\samples\\drivers\\drivers\\simplehmd\\src\\hmd_device_driver.cpp",
+		"output": "C:\\Users\\ousttrue\\AppData\\Local\\zig\\hmd_device_driver.cpp.o"
+	}
+]

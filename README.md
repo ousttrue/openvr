@@ -1,5 +1,11 @@
-OpenVR SDK
----
+## build.zig
+
+```sh
+> zig build
+> vrpathreg.exe adddriver "$pwd/zig-out/bin/simplehmd"
+```
+
+## OpenVR SDK
 
 OpenVR is an API and runtime that allows access to VR hardware from multiple
 vendors without requiring that applications have specific knowledge of the
